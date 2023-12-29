@@ -433,16 +433,7 @@
     border-right: 1px solid rgba(255, 255, 255, 0.);
 }
 
-.login_wrap::after {
-    content: "";
-    position: absolute;
-    left: 240px;
-    top: 0;
-    width: 226px;
-    height: 100%;
-    background: #343434;
-    border-left: 1px solid rgba(255, 255, 255, 0.1);
-}
+
 
 .login_wrap .login_top {
     padding: 20px 0;
